@@ -1,4 +1,4 @@
-# QQ群（GPUImage, OpenGL ES 3.0, Vulkan, Metal）共享信息
+# QQ群 536987698（GPUImage, OpenGL ES 3.0, Vulkan, Metal）共享信息
 
 ## 学习资料
 - OpenGL ES 3.0
