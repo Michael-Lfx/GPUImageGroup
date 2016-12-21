@@ -1,6 +1,7 @@
 # QQ群 536987698（GPUImage, OpenGL ES 3.0, Vulkan, Metal）共享信息
 
 **如果不是交不起房租，个人建议还是买本正版书支持原作者。** 欢迎Fork分享你的学习经验，本群成员基本是非数字图像处理专业的开发者，绝大多数人都是从普通应用开发因项目需要才开始自学图像处理，欢迎加入和大家讨论技术话题。
+
 **讨论前，请先谷歌，避免问一些无意义的问题，例如我应该怎么学习OpenGL (ES)、有没人使用Metal？**。直接描述问题、附上代码完整截图或错误截图。
 
 ## 学习资料
@@ -67,3 +68,9 @@
 [6001]: https://item.jd.com/10078629.html "3D数学基础：图形与游戏开发"
 
 ## 问题列表
+
+### 图像处理
+
+1、如何理解下面这句话中“高斯函数的傅立叶变换是另一个高斯函数”的作用。
+
+> Since the Fourier transform of a Gaussian is another Gaussian, applying a Gaussian blur has the effect of reducing the image's high-frequency components; a Gaussian blur is thus a low pass filter.
