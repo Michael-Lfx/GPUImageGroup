@@ -44,6 +44,7 @@
 
 - Virtual Reality（VR，虚拟现实）。这块建议能用[OpenGL ES 3.0 Programming Guide 2nd Edition][1001]或其中文版[OpenGL ES 3.0 编程指南（原书第2版）][1002]将视频渲染出来后，应该学习[3D数学基础：图形与游戏开发][6001]，特别是接入Google Cardboard SDK需要掌握欧拉角、四元数等数学基础内容。
 - Digital Image Processing（图像处理）。掌握OpenGL ES基本渲染管线并掌握了着色器代码的语法，之后应该学习数字图像处理相关内容，如[数字图像处理（第3版）][5001]。目前就我掌握的信息看，游戏场合很少需要后处理，故做游戏开发的同学对数字图像处理的需求相对较少。
+- 游戏开发。这个方向还需要掌握碰撞检测（如开源项目Bullet）等知识。
     
     
 [1001]: https://www.amazon.com/OpenGL-3-0-Programming-Guide-2nd/dp/0321933885/ref=sr_1_fkmr1_1?ie=UTF8&qid=1482248097&sr=8-1-fkmr1&keywords=OpenGL+ES+3.0+Programming+Guide+Second+Edition "OpenGL ES 3.0 Programming Guide (2nd Edition)"
