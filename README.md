@@ -1,4 +1,4 @@
-# QQ群 536987698（GPUImage, OpenGL ES 3.0, Vulkan, Metal）分享信息
+# GPUImage讨论群 536987698
 
 欢迎Fork分享你的学习经验，欢迎加入和大家讨论技术话题。
 
